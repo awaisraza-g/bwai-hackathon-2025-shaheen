@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/3gBSnj0I)
 <div align="center">
   <img src="https://i.postimg.cc/KYsM8qbc/event-banner.png" width="100%">
 </div>
@@ -6,11 +7,26 @@
 
 Welcome to the GDG Kolachi Build With AI Karachi 2025 - Hackathon - GitHub Classroom Assignment! In this hackathon, participants will have the opportunity to leverage Google's Generative AI tools to create innovative and sustainable solutions. Below are the guidelines and instructions for submitting your project.
 
+
+## 🚀 Getting Started
+
+To clone and run this project locally:
+
+# 1. Clone the repository
+git clone https://github.com/lexxus16/Role-Simulation-Engine.git
+cd Role-Simulation-Engine
+
+# 2. Install dependencies
+npm install
+
+# 3. Start the development server
+npm run dev
+
 ## Checklist for Submission:
 __Please make sure to complete this checklist before submission.__
 > You can check the box by adding x in between [], i.e. [x], when editing README.md.
-- [ x] Upload the video to YouTube or Google Drive and add the link here: <https://drive.google.com/file/d/1xSeGeval2X5SwI3LdB0GVZOqH64jxr9t/view?usp=drive_link>
-- [x ] Compile/run your project code and demonstrate the functionality along with input and output in the video: <https://drive.google.com/file/d/1oTa4V-Hx6ZiZ03_sKdqmDGlyTWnb1wBb/view?usp=drive_link>
+- [ x] Upload the video to YouTube or Google Drive and add the link here: <https://youtu.be/Uo82v0Vh3hc>
+- [x ] Compile/run your project code and demonstrate the functionality along with input and output in the video: <https://github.com/lexxus16/Role-Simulation-Engine>
 - [x ] Upload presentation (pitch deck) of your project: <https://docs.google.com/presentation/d/1fd96CDBWkN7ueucHD2tbY5xoEM_WTX0k/edit?usp=drive_link&ouid=101622358145380978908&rtpof=true&sd=true>
 
 - [ x ] I have made sure all the links added are shareable and the content is accessible.
